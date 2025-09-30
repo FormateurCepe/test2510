@@ -1,5 +1,5 @@
 def bonjour(nom="Obi-Wan"):
-    print(f"Popop {nom} !")
+    print(f"Coucou {nom} !")
 
 
 bonjour("Luke")
